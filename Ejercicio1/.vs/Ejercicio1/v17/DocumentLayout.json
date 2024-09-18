@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\Suma y Multiplicacion de arreglos\\Ejercicio1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8F300B18-4002-46C3-A159-4D084AF9D365}|Ejercicio1\\Ejercicio1.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\Suma y Multiplicacion de arreglos\\Ejercicio1\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F300B18-4002-46C3-A159-4D084AF9D365}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F300B18-4002-46C3-A159-4D084AF9D365}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\gabri\\onedrive\\documentos\\suma y multiplicacion de arreglos\\ejercicio1\\ejercicio1\\models\\dados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F300B18-4002-46C3-A159-4D084AF9D365}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\models\\dados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F300B18-4002-46C3-A159-4D084AF9D365}|Ejercicio1\\Ejercicio1.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\Suma y Multiplicacion de arreglos\\Ejercicio1\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8F300B18-4002-46C3-A159-4D084AF9D365}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F300B18-4002-46C3-A159-4D084AF9D365}|Ejercicio1\\Ejercicio1.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\Suma y Multiplicacion de arreglos\\Ejercicio1\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F300B18-4002-46C3-A159-4D084AF9D365}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Suma y Multiplicacion de arreglos\\Ejercicio1\\Ejercicio1\\Form1.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\Form1.cs",
@@ -38,31 +38,33 @@
               "RelativeToolTip": "Ejercicio1\\Form1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T03:00:08.972Z"
+              "WhenOpened": "2024-09-17T03:00:08.972Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Dados.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Suma y Multiplicacion de arreglos\\Ejercicio1\\Ejercicio1\\models\\Dados.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\models\\Dados.cs",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Suma y Multiplicacion de arreglos\\Ejercicio1\\Ejercicio1\\models\\Dados.cs",
               "RelativeToolTip": "Ejercicio1\\models\\Dados.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwAgAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T02:51:27.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Suma y Multiplicacion de arreglos\\Ejercicio1\\Ejercicio1\\Form1.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\Form1.cs",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Suma y Multiplicacion de arreglos\\Ejercicio1\\Ejercicio1\\Form1.cs [Design]",
               "RelativeToolTip": "Ejercicio1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T02:42:39.758Z"
+              "WhenOpened": "2024-09-17T02:42:39.758Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
